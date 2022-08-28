@@ -8,7 +8,7 @@ Hi I'm Manuel Dileo and I'm a research assistant at Connets Lab, University of M
 ### Publications (Full papers/extend abstracts in conferences)
 - Dileo, M., Ba, C. T., Zignani, M., and Gaito, S. Link prediction in blockchain online social networks with textual information, 2022. The 11th International Conference on Complex Networks and their Applications, Palermo, Italy, 8-10 November
 - Dileo, M., Ba, C. T., Zignani, M., and Gaito, S. Link prediction with text in online social networks: the role of textual content on high-resolution temporal data. The 25th International Conference on Discovery Science, Montpellier, France, 10-12 October
-- Ba, C. T., Galdeman, A., Dileo, M., Zignani, M., and Gaito, S. Web3 social platforms: modeling, mining and evolution. In Proceedings of the 1st Italian Conference on Big Data and Data Science (2022), Milan, Italy, 20-21 September
+- Ba, C. T., Galdeman, A., Dileo, M., Quadri, C., Zignani, M., and Gaito, S. Web3 social platforms: modeling, mining and evolution. In Proceedings of the 1st Italian Conference on Big Data and Data Science (2022), Milan, Italy, 20-21 September
 
 ### Projects
 - [Link prediction with text](https://github.com/manuel-dileo/link-prediction-with-text): Deep learning models on blockchain social network to perform link prediction with network and content-based information, 2022
