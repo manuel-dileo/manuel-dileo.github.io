@@ -1,19 +1,16 @@
 ## Allons-y!
 
-Hi I'm Manuel Dileo and I'm a PhD student at Connets Lab, University of Milan. My research interests lies in the intersection between machine learning on graphs and network science. I'm currently working on temporal graph learning and temporal knowledge graphs. Enemies to lovers story with Python. I'm a former [Google Developer Student Club](https://developers.google.com/community/dsc) lead.
-
-### News
-I'm a visiting PGR student at the Informatics Forum of the University of Edinburgh for Summer 2023. Feel free to reach me if you want to discuss about temporal networks and temporal graph learning :)
+Hi I'm Manuel Dileo and I'm a PhD student at Connets Lab, University of Milan. My research interests lie in the intersection between machine learning on graphs and network science. I'm currently working on temporal graph learning and temporal knowledge graphs. Enemies to Lovers story with Python. I'm a former visiting researcher at the University of Edinburgh and [Google Developer Student Club](https://developers.google.com/community/dsc) lead.
 
 ### Latest publications (Full papers)
-- Dileo, M., Ba, C. T., Zignani, M., and Gaito, S. Link prediction with text in online social networks: the role of textual content on high-resolution temporal data. The 25th International Conference on Discovery Science, Montpellier, France, 10-12 October
-- Ba, C. T., Galdeman, A., Dileo, M., Quadri, C., Zignani, M., and Gaito, S. Web3 social platforms: modeling, mining and evolution. In Proceedings of the 1st Italian Conference on Big Data and Data Science (2022), Milan, Italy, 20-21 September
-For a full list of my publications see my [Google Scholar](https://scholar.google.com/citations?user=g6FUHEgAAAAJ&hl=it)
+For a full and updated list of my publications see my [Google Scholar](https://scholar.google.com/citations?user=g6FUHEgAAAAJ&hl=it)
 
 ### Conference talks
 - The impact of textual content on link prediction in online social networks @ [CompleNet2022](https://complenet.weebly.com/)
 
 ### Latest projects
+- [Dynamic GNN](https://github.com/manuel-dileo/dynamic-gnn): PyTorch Geometric implementation of a dynamic gnn based on Roland framework, under review, 2023.
+- [Temporal regularisers for Neural Link Predictor](https://github.com/manuel-dileo/tkbc-reg/): under review, 2023.
 - [Link prediction with text](https://github.com/manuel-dileo/link-prediction-with-text): Deep learning models on blockchain social network to perform link prediction with network and content-based information, 2022
 - [Urban sound classification](https://github.com/manuel-dileo/urban-sound-classification): use of TensorFlow2 to train neural networks for the classification of sound events based on audio files from the UrbanSound8K dataset, 2021
 - [Link analysis](https://github.com/manuel-dileo/link-analysis): implementation from scratch of a system ranking nodes in a graph, processing the IMDB dataset, 2021
