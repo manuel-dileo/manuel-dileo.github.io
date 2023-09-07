@@ -9,8 +9,8 @@ For a full and updated list of my publications see my [Google Scholar](https://s
 - The impact of textual content on link prediction in online social networks @ [CompleNet2022](https://complenet.weebly.com/)
 
 ### Latest projects
-- [Dynamic GNN](https://github.com/manuel-dileo/dynamic-gnn): PyTorch Geometric implementation of a dynamic gnn based on Roland framework, under review, 2023.
-- [Temporal regularisers for Neural Link Predictor](https://github.com/manuel-dileo/tkbc-reg/): under review, 2023.
+- [Dynamic GNN](https://github.com/manuel-dileo/dynamic-gnn): PyTorch Geometric implementation of a dynamic gnn based on the Roland framework, under review, 2023.
+- [Temporal regularisers for Neural Link Predictors](https://github.com/manuel-dileo/tkbc-reg/): under review, 2023.
 - [Link prediction with text](https://github.com/manuel-dileo/link-prediction-with-text): Deep learning models on blockchain social network to perform link prediction with network and content-based information, 2022
 - [Urban sound classification](https://github.com/manuel-dileo/urban-sound-classification): use of TensorFlow2 to train neural networks for the classification of sound events based on audio files from the UrbanSound8K dataset, 2021
 - [Link analysis](https://github.com/manuel-dileo/link-analysis): implementation from scratch of a system ranking nodes in a graph, processing the IMDB dataset, 2021
