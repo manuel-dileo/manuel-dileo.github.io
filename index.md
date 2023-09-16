@@ -2,10 +2,11 @@
 
 Hi I'm Manuel Dileo and I'm a PhD student at Connets Lab, University of Milan. My research interests lie in the intersection between machine learning on graphs and network science. I'm currently working on temporal graph learning and temporal knowledge graphs. Enemies to Lovers story with Python. I'm a former visiting researcher at the University of Edinburgh and [Google Developer Student Club](https://developers.google.com/community/dsc) lead.
 
-### Latest publications (Full papers)
+### Latest publications
 For a full and updated list of my publications see my [Google Scholar](https://scholar.google.com/citations?user=g6FUHEgAAAAJ&hl=it)
 
 ### Conference talks
+- Dynamic link prediction with textual content in Web3 social platforms @ [ITADATA2023](https://www.itadata.it/)
 - The impact of textual content on link prediction in online social networks @ [CompleNet2022](https://complenet.weebly.com/)
 
 ### Latest projects
