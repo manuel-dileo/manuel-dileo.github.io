@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Manuel Dileo"
-  avatar           : "profile.png"
+  avatar           : "propic.jpg"
   bio              : "PhD student @ CONNETS Lab, University of Milan. Network science, knowledge graphs, temporal graph learning. Whovian."
-  location         : "Milan"
+  location         : "University of Milan"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=g6FUHEgAAAAJ&hl=en"
   email            : "manuel.dileo@unimi.it"
