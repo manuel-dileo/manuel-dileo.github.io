@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi I'm Manuel Dileo and I'm a PhD student at [Connets Lab](connets.di.unimi.it), University of Milan. My research interests lie in the intersection between machine learning on graphs and network science. I'm currently working on temporal graph learning and temporal knowledge graphs. Enemies to Lovers story with Python. I'm a former visiting researcher at the University of Edinburgh and [Google Developer Student Club](https://developers.google.com/community/dsc) lead.
+Hi I'm Manuel Dileo and I'm a PhD student at [Connets Lab](https://www.connets.di.unimi.it), University of Milan. My research interests lie in the intersection between machine learning on graphs and network science. I'm currently working on temporal graph learning and temporal knowledge graphs. Enemies to Lovers story with Python. I'm a former visiting researcher at the University of Edinburgh and [Google Developer Student Club](https://developers.google.com/community/dsc) lead.
 
 News
 ======
