@@ -12,9 +12,9 @@ Hi I'm Manuel Dileo and I'm a PhD student at [Connets Lab](https://www.connets.d
 
 News
 ======
-- The slides of my seminar titled "Demystifying Graph Neural Networks", presented at [MUSEMI](musemi.di.unimi.it), are available [here](https://github.com/manuel-dileo/intro-gnn/blob/main/musemi/musemi_demystifying_gnns.pdf).
 - Paper accepted at TGL workshop at NeurIPS 2023! Read the preprint of ["DURENDAL: graph deep learning framework for temporal heterogeneous networks"](https://arxiv.org/abs/2310.00336).
-- Paper accepted at Machine Learning Journal! The paper "Temporal Graph Learning for Dynamic Link Prediction with Text in Online Social Networks" will be available online soon. 
+- Paper accepted at Machine Learning Journal! Read ["Temporal Graph Learning for Dynamic Link Prediction with Text in Online Social Networks"](https://link.springer.com/article/10.1007/s10994-023-06475-x)
+- The slides of my seminar titled "Demystifying Graph Neural Networks", presented at [MUSEMI](musemi.di.unimi.it), are available [here](https://github.com/manuel-dileo/intro-gnn/blob/main/musemi/musemi_demystifying_gnns.pdf).
 
 Latest publications
 ======
@@ -22,7 +22,9 @@ For a full and updated list of my publications see my [Google Scholar](https://s
 
 Conference talks and posters
 ======
+- Blockchain-data: a playground for temporal graph learning @ [LOG 2023 - Italian Meetup](https://sites.google.com/view/log-meetup-italy) 
 - Dynamic link prediction with textual content in Web3 social platforms @ [ITADATA2023](https://www.itadata.it/)
+- Link prediction in blockchain online social networks with textual information @ [CNA22](https://2022.complexnetworks.org/)
 - The impact of textual content on link prediction in online social networks @ [CompleNet2022](https://complenet.weebly.com/)
 
 Seminars and Workshops
