@@ -1,12 +1,10 @@
 ---
 permalink: /review
-title: "Allons-y!"
+title: "Reviews"
 excerpt: "About me"
 author_profile: true
 redirect_from:
 ---
-
-# Reviews
 
 Journal
 ======
