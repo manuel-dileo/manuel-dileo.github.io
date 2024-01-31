@@ -3,9 +3,7 @@ permalink: /review
 title: "Allons-y!"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /review/
-  - /review.html
+redirect_from:
 ---
 
 # Reviews
