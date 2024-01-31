@@ -21,5 +21,5 @@ I served as a reviewer for the following conferences/workshops:
 - [TGL @ NeurIPS 2023](https://sites.google.com/view/tglworkshop-2023/home)
 - [LIMBO @ ECML PKDD 2023](https://sites.google.com/view/limboecmlpkdd2023/home)
 - [ESANN 2023](https://www.esann.org/esann23programme)
-- [Discovery Science 2023](https://ds2023.inesctec.pt/)(Subreviewer)
-- [ICDCS 2023](https://icdcs2023.icdcs.org/)(Subreviewer)
+- [Discovery Science 2023](https://ds2023.inesctec.pt/) (Subreviewer)
+- [ICDCS 2023](https://icdcs2023.icdcs.org/) (Subreviewer)
