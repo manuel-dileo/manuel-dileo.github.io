@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /review
 title: "Allons-y!"
 excerpt: "About me"
 author_profile: true
