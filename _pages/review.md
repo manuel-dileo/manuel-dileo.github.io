@@ -11,6 +11,7 @@ Journal
 I served as a reviewer for the following journals:
 - PLOS ONE (PONE)
 - ACM Transactions on the Web (TWEB)
+- Springer Applied Network Science (ANS)
 
 Conference
 ======
