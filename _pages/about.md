@@ -12,8 +12,8 @@ Hi I'm Manuel Dileo and I'm a PhD student at [Connets Lab](https://www.connets.d
 
 News
 ======
-- ["Can Graph Neural Networks learn node-level structural features?"](https://openreview.net/forum?id=HRxVPPdyDh) accepted at the ICLR Tiny Track 2024! See you in Vienna.
-- Paper accepted at ACM DLT Journal! Read [here](https://dl.acm.org/doi/abs/10.1145/3640020).
+- Our work titled "Graph Machine Learning for fast product development from formulation trials" has been accepted at ECMLPKDD 2024! See you in Vilnius
+- ["Can Graph Neural Networks learn node-level structural features?"](https://openreview.net/forum?id=HRxVPPdyDh) accepted at the ICLR Tiny Track 2024!
 - Paper accepted at Machine Learning Journal! Read ["Temporal Graph Learning for Dynamic Link Prediction with Text in Online Social Networks"](https://link.springer.com/article/10.1007/s10994-023-06475-x)
 
 Latest publications
