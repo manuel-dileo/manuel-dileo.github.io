@@ -16,6 +16,7 @@ I served as a reviewer for the following journals:
 Conference
 ======
 I served as a reviewer for the following conferences/workshops:
+- [ECML PKDD 2024 - PhD Forum](https://ecmlpkdd.org/2024/submissions-phd-forum/)
 - [IRonGraph @ ECIR 2024](https://irongraphs.github.io/ecir2024/)
 - [TGL @ NeurIPS 2023](https://sites.google.com/view/tglworkshop-2023/home)
 - [LIMBO @ ECML PKDD 2023](https://sites.google.com/view/limboecmlpkdd2023/home)
