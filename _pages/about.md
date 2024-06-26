@@ -12,8 +12,8 @@ Hi I'm Manuel Dileo and I'm a PhD student at [Connets Lab](https://www.connets.d
 
 News
 ======
+- Paper accepted at Machine Learning Journal! Read ["Discrete-time graph neural networks for transaction prediction in Web3 social platforms"](https://link.springer.com/article/10.1007/s10994-024-06579-y)
 - Our work titled "Graph Machine Learning for fast product development from formulation trials" has been accepted at ECMLPKDD 2024! See you in Vilnius
-- ["Can Graph Neural Networks learn node-level structural features?"](https://openreview.net/forum?id=HRxVPPdyDh) accepted at the ICLR Tiny Track 2024!
 - Paper accepted at Machine Learning Journal! Read ["Temporal Graph Learning for Dynamic Link Prediction with Text in Online Social Networks"](https://link.springer.com/article/10.1007/s10994-023-06475-x)
 
 Latest publications
