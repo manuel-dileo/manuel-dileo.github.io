@@ -17,6 +17,7 @@ Conference
 ======
 I served as a reviewer for the following conferences/workshops:
 - [LOG 2024](https://logconference.org/)
+- [CSoNet 2024](https://csonet-conf.github.io/csonet24/index.html)[Subreviewer]
 - [CIKM 2024](https://cikm2024.org/)(Subreviewer)
 - [MLH @ ECML PKDD 2024](https://sites.google.com/view/mlh-ecml24)
 - [ECML PKDD 2024 - PhD Forum](https://ecmlpkdd.org/2024/submissions-phd-forum/)
