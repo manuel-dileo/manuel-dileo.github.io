@@ -19,7 +19,7 @@ Latest publications
 ======
 - Paper accepted at Machine Learning Journal! Read ["Discrete-time graph neural networks for transaction prediction in Web3 social platforms"](https://link.springer.com/article/10.1007/s10994-024-06579-y)
 - Paper accepted at Machine Learning Journal! Read ["Temporal Graph Learning for Dynamic Link Prediction with Text in Online Social Networks"](https://link.springer.com/article/10.1007/s10994-023-06475-x)
-For a full and updated list of my publications see my [Google Scholar](https://scholar.google.com/citations?user=g6FUHEgAAAAJ&hl=it)
+- For a full and updated list of my publications see my [Google Scholar](https://scholar.google.com/citations?user=g6FUHEgAAAAJ&hl=it)
 
 Conference talks and posters
 ======
