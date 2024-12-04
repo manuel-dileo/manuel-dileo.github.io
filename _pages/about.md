@@ -12,7 +12,7 @@ Hi I'm Manuel Dileo and I'm a PhD student at [Connets Lab](https://www.connets.d
 
 News
 ======
-- Submission for our Special Issue ["Bridging Network Science and AI"](https://link.springer.com/collections/hafcebgfci) on Applied Network Science by Springer are open! Submit your work by the end of June 2025.
+- Submissions for our Special Issue ["Bridging Network Science and AI"](https://link.springer.com/collections/hafcebgfci) on Applied Network Science by Springer are open! Submit your work by the end of June 2025.
 
 
 Latest publications
