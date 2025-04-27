@@ -13,6 +13,7 @@ I served as a reviewer for the following journals:
 - ACM Transactions on the Web (TWEB)
 - Springer Applied Network Science (ANS)
 - Computer Networks (COMNET)
+- Data Science and Engineering (DSEJ)
 
 Conference
 ======

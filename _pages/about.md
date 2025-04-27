@@ -12,6 +12,7 @@ Hi I'm Manuel Dileo and I'm a PhD student at [Connets Lab](https://www.connets.d
 
 News
 ======
+- Happy to announce that our work ["Enhancing neural link predictors for temporal knowledge graphs with temporal regularisers"](https://doi.org/10.14428/esann/2025.ES2025-28) has won the best paper award at [ESANN 2025](www.esann.org/)!
 - Submissions for our Special Issue ["Bridging Network Science and AI"](https://link.springer.com/collections/hafcebgfci) on Applied Network Science by Springer are open! Submit your work by the end of June 2025.
 
 
