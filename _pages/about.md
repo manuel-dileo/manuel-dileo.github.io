@@ -13,13 +13,13 @@ Hi I'm Manuel Dileo and I'm a PhD student at [Connets Lab](https://www.connets.d
 News
 ======
 - Happy to announce that our work ["Enhancing neural link predictors for temporal knowledge graphs with temporal regularisers"](https://doi.org/10.14428/esann/2025.ES2025-28) has won the best paper award at [ESANN 2025](www.esann.org/)!
-- Submissions for our Special Issue ["Bridging Network Science and AI"](https://link.springer.com/collections/hafcebgfci) on Applied Network Science by Springer are open! Submit your work by the end of June 2025.
+- Submissions for our Special Issue ["Bridging Network Science and AI"](https://link.springer.com/collections/hafcebgfci) on Applied Network Science by Springer are open! Submit your work by the end of December 2025.
 
 
 Latest publications
 ======
+- Paper accepted at TMLR! Read ["Evaluating explainability techniques on discrete-time graph neural networks"](https://openreview.net/forum?id=JzmXo0rfry)
 - Paper accepted at Machine Learning Journal! Read ["Discrete-time graph neural networks for transaction prediction in Web3 social platforms"](https://link.springer.com/article/10.1007/s10994-024-06579-y)
-- Paper accepted at Machine Learning Journal! Read ["Temporal Graph Learning for Dynamic Link Prediction with Text in Online Social Networks"](https://link.springer.com/article/10.1007/s10994-023-06475-x)
 - For a full and updated list of my publications see my [Google Scholar](https://scholar.google.com/citations?user=g6FUHEgAAAAJ&hl=it)
 
 Conference talks and posters
