@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Manuel Dileo"
   avatar           : "propic.jpg"
-  bio              : "PhD student @ CONNETS Lab, University of Milan. Network science, knowledge graphs, temporal graph learning. Whovian."
+  bio              : "Postdoc in AI 4 Biology @ Human Technopole. Temporal graph learning, network science, knowledge graphs. Whovian."
   location         : "University of Milan"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=g6FUHEgAAAAJ&hl=en"
-  email            : "manuel.dileo@unimi.it"
+  email            : "manuel.dileo@fht.org"
   github           : "manuel-dileo"
   orcid            : "https://orcid.org/0000-0002-4861-455X"
   twitter          : "ManuelDileo"
