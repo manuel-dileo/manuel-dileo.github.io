@@ -12,13 +12,13 @@ Hi I'm Manuel Dileo and I'm a Postdoctoral Researcher at [Human Technopole](http
 
 News
 ======
-- Paper accepted at Neurocomputing! Read ["Tensor factorization for temporal knowledge graph forecasting"](https://www.sciencedirect.com/science/article/abs/pii/S0925231226002432)
+- Paper accepted at Machine Learning! Read ["Learning from Dynamic Protein Interaction Networks with State-Memory Temporal Graph Neural Networks"](https://link.springer.com/article/10.1007/s10994-026-07122-x)
 - Happy to announce that our work ["Enhancing neural link predictors for temporal knowledge graphs with temporal regularisers"](https://doi.org/10.14428/esann/2025.ES2025-28) has won the best paper award at [ESANN 2025](www.esann.org/)!
 
 
 Latest publications
 ======
-- Paper accepted at Machine Learning Journal! Read ["User migration in blockchain-based online social networks through the lens of temporal node representation shift"](https://link.springer.com/article/10.1007/s10994-025-06905-y)
+- Paper accepted at Neurocomputing! Read ["Tensor factorization for temporal knowledge graph forecasting"](https://www.sciencedirect.com/science/article/abs/pii/S0925231226002432)
 - Paper accepted at TMLR! Read ["Evaluating explainability techniques on discrete-time graph neural networks"](https://openreview.net/forum?id=JzmXo0rfry)
 - For a full and updated list of my publications see my [Google Scholar](https://scholar.google.com/citations?user=g6FUHEgAAAAJ&hl=it)
 
